@@ -3,6 +3,7 @@
         "allauth",
         "corecss",
         "corejs",
+        "forloop",
         "socialaccount"
     ]
 }
