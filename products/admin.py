@@ -3,6 +3,7 @@ from .models import Category, Product
 
 # Register your models here.
 
+
 class ProductAdmin(admin.ModelAdmin):
     list_display = (
         'sku',
