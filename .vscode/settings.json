@@ -6,6 +6,7 @@
         "corejs",
         "forloop",
         "Homeware",
+        "postloadjs",
         "socialaccount"
     ]
 }
