@@ -4,6 +4,7 @@
         "allauth",
         "corecss",
         "corejs",
+        "crsfmiddlewaretoken",
         "csrfmiddlewaretoken",
         "forloop",
         "Homeware",
