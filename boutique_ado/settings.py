@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["8000-ant2210-boutiqueadov1-u3ywz6k9vva.ws-eu106.gitpod.io"]
 
 
 # Application definition
