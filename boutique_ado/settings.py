@@ -31,7 +31,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["8000-ant2210-boutiqueadov1-s8xqq0wpwag.ws-eu106.gitpod.io", "ant-boutique-ado-f57d0323e4d7.herokuapp.com", 'localhost']
 
-
 # Application definition
 
 INSTALLED_APPS = [
